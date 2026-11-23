@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**VinaGit-2705D/VinaGit-2705D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Vinaya Davis</h1>
+<h3 align="center">Data Analyst </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning raw data into meaningful insights through data analysis and interactive dashboards.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👩‍💻 About Me
+
+- 📊 Interested in Data Analytics, Business Intelligence, and transforming data into meaningful insights.
+- 🐍 Skilled in Python, SQL, Power BI and Excel.
+- 📈 Experienced in data cleaning, exploratory data analysis and visualization.
+- 🚀 Building projects to strengthen my analytical and technical skills.
+
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Database:** MySQL
+- **Visualization:** Power BI
+- **Spreadsheet:** Microsoft Excel
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+
+## 📂 Featured Projects
+
+- Neonatal Healthcare Analytics
+- University Enrollment Funnel Intelligence
+- Pharmaceutical Sales and Demand Analysis
+- Ecommerce Customer Churn Analysis
+
+
+## 📜 Certifications
+
+- Python Data Analytics Course – Luminar Technolab
+- NACTET Certification
+- SQL (Basic) Certificate – HackerRank
+
+
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/vinaya-davis-v2705
+- GitHub: https://github.com/VinaGit-2705D
+- HackerRank: https://www.hackerrank.com/profile/vinayadavis1998
+- Email: vinaya.davis05@gmail.com
+
