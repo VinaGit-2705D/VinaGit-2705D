@@ -7,7 +7,7 @@
 </p>
 
 
-## 👩‍💻 About Me
+## About Me
 
 - 📊 Interested in Data Analytics, Business Intelligence, and transforming data into meaningful insights.
 - 🐍 Skilled in Python, SQL, Power BI and Excel.
@@ -15,7 +15,7 @@
 - 🚀 Building projects to strengthen my analytical and technical skills.
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming:** Python
 - **Database:** MySQL
@@ -24,7 +24,7 @@
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 
-## 📂 Featured Projects
+## Featured Projects
 
 - Neonatal Healthcare Analytics
 - University Enrollment Funnel Intelligence
@@ -32,14 +32,14 @@
 - Ecommerce Customer Churn Analysis
 
 
-## 📜 Certifications
+## Certifications
 
 - Python Data Analytics Course – Luminar Technolab
 - NACTET Certification
 - SQL (Basic) Certificate – HackerRank
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/vinaya-davis-v2705
 - GitHub: https://github.com/VinaGit-2705D
